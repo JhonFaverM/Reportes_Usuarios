@@ -37,7 +37,7 @@ MONGODB_PASSWORD=
 (env) PS C:\Reportes_Usuarios> uvicorn main:app --reload
 
 Para acceder a la documentacion de la API, copia la url y pegala en la web:
-http://127.0.0.1:8000/docs
+http://127.0.0.1:5000/docs
 
 
 ### Endpoints
